@@ -45,7 +45,7 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 
 - **Nombre:** PonteTu
 
-- **Foto:**
+- <img width="1440" alt="Ponte tu" src="https://user-images.githubusercontent.com/101159631/172670232-9021cec1-fe1d-4f24-8aa1-b359d38ec4a9.png">
 
 - **Qué:** Página web de tienda de ropa, incluye muchas marcas.
 
@@ -61,7 +61,7 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 
 - **Nombre:** RoCA
 
-- **Fotos:**
+- <img width="1440" alt="Roca" src="https://user-images.githubusercontent.com/101159631/172670267-3f047ec4-facd-4750-ae16-d571e3f8051f.png"> 
 
 - **Qué:** Página web de vestidos formales, de novias y blusas.
 
@@ -77,7 +77,7 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 
 - **Nombre:** Marrón
 
-- **Fotos:**
+- <img width="1437" alt="Marrón" src="https://user-images.githubusercontent.com/101159631/172670349-faeadf69-0484-41ab-9906-bfadf3eaac3d.png">
 
 - **Qué:** Página web de una tienda de ropa.
 
@@ -93,7 +93,7 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 
 - **Nombre:** Enriqueta
 
-- **Fotos:**
+- <img width="1440" alt="Enriqueta" src="https://user-images.githubusercontent.com/101159631/172670383-f41b8b6f-ab18-4d6b-8281-0eb8cf81ddc8.png">
 
 - **Qué:** Página web de ropa.
 
@@ -109,7 +109,7 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 
 - **Nombre:** Marianna
 
-- **Fotos:**
+- <img width="1440" alt="Marianna" src="https://user-images.githubusercontent.com/101159631/172670412-13987dc6-bc7a-4cb8-b063-293d048bad46.png">
 
 - **Qué:** Página web de ropa.
 
@@ -125,7 +125,7 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 
 - **Nombre:** Parsome
 
-- **Fotos:**
+- <img width="1337" alt="Parsome" src="https://user-images.githubusercontent.com/101159631/172670457-214f8adf-17cb-42ce-8b9f-e87544a292e0.png">
 
 - **Qué:** Página web de ropa.
 
@@ -138,7 +138,7 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 - - - - - - - - - - 
 
 #### REFERENTES
-
+![Moodboard](https://user-images.githubusercontent.com/101159631/172670487-c9cc7209-13f7-4ba3-aafa-070be1ea435a.png)
 
 
 
