@@ -8,11 +8,35 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 
 #### PARA QUIÉN
 
-**Extremo 1:** Pololo/hermano que quiere regalar una prenda de ropa.
+**Extremo 1:** 
 
-**Promedio:** Mujer de 16-25 años que compra ropa hecha a mano en Chile.
+- Cuadrante 1: Diego, pololo que quiere regalar una prenda de ropa.
 
-**Extremo 2:** Madre que quiere regalar una prenda de ropa.
+- Cuadrante 2: Cree que su polola merece la mejor prenda del mundo. Ven series juntos
+
+- Cuadrante 3: Hombre de 18-15 años, estudia o está empezando a trabajar.
+
+- Cuadrante 4: Hacer el mejor regalo y que su polola nunca lo olvide
+
+**Promedio:**  
+
+- Cuadrante 1: Antonia, le gusta vestirse bien.
+
+- Cuadrante 2: Sigue muchas tiendas de ropa en Instagram.
+
+- Cuadrante 3: Mujer de 16-25 años, estudia o está empezando a trabajar.
+
+- Cuadrante 4: Ser la mejor vestida de su grupo de amigas.
+
+**Extremo 2:** 
+
+- Cuadrante 1: Teresa, madre que quiere regalarle una prenda de ropa a su hija.
+
+- Cuadrante 2: Busca páginas web de ropa.
+
+- Cuadrante 3: Mujer de 40-50 años, trabaja
+
+- Cuadrante 4: Regalarle una prenda de buena calidad a su hija para que le dure harto tiempo.
 
 - - - - - - - - - - 
 
@@ -110,6 +134,15 @@ Mostrar a través de una página web las prendas que ofrece la tienda Zatino (za
 - **Aspectos positivos:** En la sección fallas/muestras al poner el mouse sobre la prenda se ve la falla con detalle
 
 - **Aspectos negativos:** La primera impresión no es de una página de ropa ya que se hace mucho énfasis en la modelo, incluso está cortada la ropa
+
+- - - - - - - - - - 
+
+#### REFERENTES
+
+
+
+
+
 
 
 
